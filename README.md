@@ -1,7 +1,9 @@
 compose
 =======
 
-String composing with placeholders for JavaScript
+String composing with placeholders for JavaScript.
+
+Add the compose.min.js to the <head> section of your page and start composing strings!
 
 Use:
 
