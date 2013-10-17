@@ -1,7 +1,7 @@
 compose
 =======
 
-C# like string composing with placeholders for JavaScript
+String composing with placeholders for JavaScript
 
 Use:
 
