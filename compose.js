@@ -25,7 +25,7 @@ String.prototype.compose = function(o){
 		var s = s.replace(p, function(match, key, value){
 
 			// Check if the key is not out of index, else return the placeholder as is
-			if(key < a.length){return a[key];} else {return match;}
+			if(key < l){return a[key];} else {return match;}
 		});
 	}
 
