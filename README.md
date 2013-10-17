@@ -25,5 +25,13 @@ Also:
 <pre>
 var product = "pears";
 
-var s = "{0} is the best product ever, nothing is better than {0}.".compose(product);
+var s = "{0} is the best product ever, nothing compares to {0}.".compose(product);
+</pre>
+
+
+Never again:
+<pre>
+var product = "pears";
+
+var s = product + " is the best product ever, nothing compares to " + product + ".";
 </pre>
