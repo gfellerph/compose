@@ -1,0 +1,17 @@
+{
+  "name": "compose",
+  "main": "compose.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tuelsch/compose",
+  "authors": [
+    "tuelsch <tuelsch@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
